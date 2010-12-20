@@ -1,0 +1,10 @@
+#summary Info about AdminTheme
+
+= Introduction =
+
+[http://themeforest.net/item/admintheme-ultimate-admin-panel-solution/45278 AdminTheme] is the admin & web app theme TomCat's tries to replicate in it's first development step.
+
+
+= Details =
+
+Visit: http://themeforest.net/item/admintheme-ultimate-admin-panel-solution/45278
