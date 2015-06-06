@@ -1,0 +1,8 @@
+# Introduction #
+
+[AdminTheme](http://themeforest.net/item/admintheme-ultimate-admin-panel-solution/45278) is the admin & web app theme TopCat's tries to replicate in it's first development step.
+
+
+# Details #
+
+Visit: http://themeforest.net/item/admintheme-ultimate-admin-panel-solution/45278
